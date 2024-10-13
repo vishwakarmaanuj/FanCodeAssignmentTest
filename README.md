@@ -19,7 +19,7 @@ Before using this framework, ensure that you have following installed on you mac
 
 1. Clone the repository on local machine
   ```console
-git clone git@github.com:vishwakarmaanuj/FanCodeSDETTest.git
+git clone git@github.com:vishwakarmaanuj/FanCodeAssignmentTest.git
 ```
 2. Open the project in your preferred IDE
 
